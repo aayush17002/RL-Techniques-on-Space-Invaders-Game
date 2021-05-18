@@ -1,1 +1,1 @@
-# RL-Techniques-on-Space-Invaders-Game
+# Applying RL Techniques on Space Invaders Game
